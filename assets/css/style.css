@@ -576,6 +576,7 @@
     background-color: white;
     position: relative;
     border-radius: 6px;
+    width: 100%;
 }
 
 .accordion-button:not(.collapsed) {
