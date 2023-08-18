@@ -161,9 +161,9 @@
     text-align: left;
 }
 
-.head {
+.head1 {
     margin-top: 24px;
-    ;
+    
     font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-weight: 700;
@@ -172,13 +172,14 @@
     text-align: left;
 }
 
-.para {
+.phara {
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 32px;
     letter-spacing: 0em;
     text-align: left;
+    
 }
 
 .btn2 {
@@ -562,7 +563,7 @@
 }
 .copy{
 
-    font-family: 'Poppins', sans-serif  
+    font-family: 'Poppins', sans-serif;  
      font-size: 18px;
     font-weight: 400;
     line-height: 32px;
